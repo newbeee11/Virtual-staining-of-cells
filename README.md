@@ -1,4 +1,4 @@
-# Virtual Pap Staining
+# Digital Pap Staining
 
 This repository provides code and data for the paper:
 
